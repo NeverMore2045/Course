@@ -26,4 +26,4 @@ Coursework
 
 Хореография
 
-![Рис. 5 - Хореография](https://github.com/NeverMore2045/Course/blob/main/pict/%D0%A5%D0%BE%D1%80%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F.png)
+![Рис. 5 - Хореография](https://github.com/NeverMore2045/Course/blob/main/pict/hor.png)
