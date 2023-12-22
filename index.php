@@ -46,6 +46,7 @@
     </nav>
 </header>
   <main class="my-5">
+    <h1 class="text-center">Меню</h1>
     <div class="container">
 
       <section class="text-center text-md-start" id="intro">
