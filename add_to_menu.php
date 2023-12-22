@@ -6,8 +6,8 @@
 		'cours'
 	);
 
-	$name = filter_var(trim($_POST['name']), FILTER_SANITIZE_ENCODED);
-	$price = filter_var(trim($_POST['price']), FILTER_SANITIZE_ENCODED);
+	$name = filter_var(trim($_POST['name']));
+	$price = filter_var(trim($_POST['price']));
 
 function upload_file($file, $upload_dir='imgs', $allowed_types= array('image/png','image/x-png','image/jpeg','image/webp','image/gif')){
 
