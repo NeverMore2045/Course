@@ -9,7 +9,7 @@
 
 	$q = "DELETE FROM `cart`";
 	if (mysqli_query($mysql, $q)) {
-		echo "Success!";
+		echo "Отлично! ";
 	} else {
     	echo "Error: ".$q."<br>".mysqli_error($mysql);
 	}
